@@ -1,0 +1,181 @@
+body{
+    font-family: 'Dongle', sans-serif;
+    margin: 0;
+}
+.two h1{
+    font-size: 50px;
+}
+.three{
+    color: rgba(255, 166, 0, 0.932);
+}
+.one{
+    margin: 10px 20px;
+    padding: 5%;
+    background-image: url("photos/header-bg.png");
+    background-repeat: repeat-x;
+    height: 750px;
+}
+.one img{
+    padding-bottom: 100px;
+}
+.two h3{
+    color: grey;
+    font-size: 30px;
+    padding-top: 40px;
+}
+#Four{
+    background-image: linear-gradient(blue,cyan);
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 150px;
+    padding: 20px 25px;
+    color: white;
+}
+.six h2{
+    color:rgb(62, 62, 243);
+    font-size: 60px;
+    font-weight: 700;
+    float: right;
+    margin-right: 700px;
+    padding-top: 65px;
+}
+#Five{
+    font-size: 30px;
+    color: grey;
+    float: right;
+    margin-left: 45%;
+    font-weight: 700;
+    margin-right: 2%;
+}
+.five{
+    background-image: url("photos/biography-bg.png");
+    margin: 10px 20px;
+    padding: 0px;
+    height: 1000px;
+}
+.five img{
+    background-position: left;
+    background-repeat: no-repeat;
+}
+#Six{
+    background-image: linear-gradient(red,tomato);
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 280px;
+    padding: 15px 15px;
+    color: white;
+    float: right;
+    margin-right: 42%;
+    margin-top: 20px;
+}
+.four{
+    float: right;
+    margin-top: -580px;
+    margin-right: -100px;
+}
+.seven{
+    float: left;
+    margin-top: -200px;
+    margin-left: 65px;
+    padding: 1%;
+}
+.eight{
+    height: 1500px;
+    padding-top: 180px;
+    margin-left: 400px;
+    background-image: url("photos/latest-work-bg.png");
+    background-repeat: repeat-x;
+}
+.eight img{
+    width: 150%;
+    background-position: right;
+
+}
+#image1 img{
+    width: 28%;
+    float: left; 
+}
+#image2 img{
+    width: 28%;
+    float: left; 
+}
+#image3 img{
+    width: 28%;
+    float: left; 
+}
+.eight h2{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+    color: orange;
+    padding-bottom: 50px;
+    margin-left: -400px;
+    padding-top: -50px;
+}
+.ten h2{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+    color: rgb(76, 76, 245);
+}
+.eleven p{
+     text-align: center;
+     font-size: 40px;
+     font-weight: 700;
+     color: orange;
+}
+.twelve p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: grey;
+}
+#footerid{
+    margin-top: -40px;
+}
+.ten h2{
+    padding-bottom: 15px;
+}
+.footer{
+    margin-top: -500px;
+    background-image: url("photos/footer-bg.png");
+    background-repeat: repeat-x;
+    /* height: 100px;  */
+}
+.footer img{
+    margin-left: 2%;
+}
+#footerid2{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: orangered;
+    padding-bottom: 40px;
+}
+#spantag1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: orange;
+}
+#link-id{
+    margin-left: 1100px;
+    background-image: linear-gradient(crimson,tomato);
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 150px;
+    padding: 20px 25px;
+    color: white; 
+    margin-top: 40px;
+}
+footer p{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 40px;
+}
